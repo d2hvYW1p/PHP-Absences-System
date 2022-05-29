@@ -1,4 +1,4 @@
 # PHP-Absences-System
 
 
-Full College Abstences System with PHP-MySql
+Project for making ATH TECH College Abstences System with PHP-MySql
